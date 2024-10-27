@@ -1,0 +1,1 @@
+C:\work\learning\packt-asp-ng\HealthCheck\healthcheck.client\obj\Debug\healthcheck.client.esproj.CoreCompileInputs.cache
