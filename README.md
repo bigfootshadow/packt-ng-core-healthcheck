@@ -10,3 +10,7 @@ Installing Angular Materials
 
 `ng add @angular/material@17.0.3`
 
+Switch from CSS to Sass (SCSS)
+
+`ng add schematics-scss-migrate`
+
